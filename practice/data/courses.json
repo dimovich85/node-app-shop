@@ -1,0 +1,20 @@
+[
+    {
+      "title": "HTML5 Верстка",
+      "price": "500",
+      "img": "https://itproger.com/img/courses/1476977240.jpg",
+      "id": "80252556-9064-4a8e-bc64-0363ca07d589"
+    },
+    {
+      "title": "VueJS",
+      "price": "1500",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/694px-Vue.js_Logo_2.svg.png",
+      "id": "eeafdf94-2102-4084-9941-c1022dfb74c6"
+    },
+    {
+      "title": "JS",
+      "price": "1000",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "id": "7474fdf1-565f-491a-bf39-40f09a14ae48"
+    }
+  ]
